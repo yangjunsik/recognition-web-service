@@ -3,14 +3,14 @@
 Google Colab 환경에서 **YOLOv8 + Flask + React + ngrok**을 활용해 구축한 **모바일 카메라 기반 실시간 객체 인식 서비스**입니다.
 
 <div align="center">
-  <img src="assets/yolo-sample.png" alt="인식 예시 이미지" width="400"/>
+  <img src="assets/yole-image.gif" alt="인식 예시 이미지" width="400"/>
 </div>
 
 ---
 
 ## 🚀 데모 시연 (GIF)
 
-![demo](assets/yolo-demo.gif)
+![demo](assets/yole-gif.gif)
 
 ---
 
