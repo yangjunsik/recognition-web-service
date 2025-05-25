@@ -10,7 +10,9 @@ Google Colab 환경에서 **YOLOv8 + Flask + React + ngrok**을 활용해 구축
 
 ## 🚀 데모 시연 (GIF)
 
-![demo](assets/yole-gif.gif)
+<div align="center">
+  <img src="assets/yole-gif.gif" alt="데모 시연 GIF" width="500"/>
+</div>
 
 ---
 
